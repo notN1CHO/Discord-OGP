@@ -9,7 +9,7 @@
   },
   "keywords": ["Discord", "Bot", "OGP", "MTA", "Host", "API", "Hosting", "SAMP"],
   "author": "N1CHO",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.0.0",
