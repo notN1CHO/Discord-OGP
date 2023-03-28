@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/rest": "^1.0.0",
+    "axios": "^1.2.5",
+    "cheerio": "^1.0.0-rc.12",
+    "discord-api-types": "^0.37.30",
+    "discord.js": "^14.7.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.2",
+    "lodash.uniqwith": "^4.5.0",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "x73db": "^1.1.0"
+  }
+}
