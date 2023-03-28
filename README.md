@@ -78,4 +78,4 @@ Extract ZIP to your Desktop and go to the AresHost-OGP folder. In there, open a 
 
 - [Our Discord Server](https://discord.gg/areshost-company-896440235917971476)                                                                                                                                                                      
 ------------------------------------------------------------------------------------------------------------
-⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*
+⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial ! ↑↑*
