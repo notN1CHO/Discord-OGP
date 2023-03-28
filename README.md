@@ -19,7 +19,7 @@
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-![areshost-ogp](https://cdn.discordapp.com/attachments/867378834559336458/1090343698568577074/8cf124dc6dee2b8d80c251536578a129.jpg?width=639&height=480)
+![areshost-ogp](https://cdn.discordapp.com/attachments/867378834559336458/1090343698568577074/8cf124dc6dee2b8d80c251536578a129.jpg)
 ---------------------------------------------------------------------------------------------------
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
@@ -46,8 +46,8 @@ Extract ZIP to your Desktop and go to the AresHost-OGP folder. In there, open a 
 
 </div>
 
-![areshost-n1cho](https://media.discordapp.net/attachments/867378834559336458/1090348043527802910/image.png?width=639&height=480)
-![areshost-ogp-n1cho](https://media.discordapp.net/attachments/867378834559336458/1090348491529781288/image.png?width=639&height=480)
+![areshost-n1cho](https://media.discordapp.net/attachments/867378834559336458/1090348043527802910/image.png)
+![areshost-ogp-n1cho](https://media.discordapp.net/attachments/867378834559336458/1090348491529781288/image.png)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 <div align="center">
