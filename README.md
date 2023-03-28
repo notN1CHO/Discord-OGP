@@ -37,8 +37,9 @@ It is really easy to setup the project! Just get [nodejs version 18.15.0](https:
 
 Click the blue/green "CODE" button on this page. Choose the option "DOWNLOAD ZIP". Or you can directly download the ZIP from [this link](https://github.com/notN1CHO/AresHost-OGP/archive/refs/heads/main.zip).
 
-Extract ZIP to your Desktop and go to the AresHost-OGP folder. In there, open a terminal (right-click + left shift to open cmd) type **npm install**, after that type **node index.js** and enjoy :D.
+Extract ZIP to your Desktop and go to the AresHost-OGP folder. In there, open a terminal (right-click + left shift to open cmd) type **npm install**, after that type **node index.js**, open config.js file and put informations (token, ip...) and enjoy :D.
 
+After all of that go to Discord and start using the bot by Slash Commands
 ---------------------------------------------------------------------------------------------------
 <div align="center">
 
