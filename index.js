@@ -10,7 +10,7 @@ let token = config.token
 
 client.commands = new Collection()
 
-const rest = new REST({ version: '10' }).setToken(process.env.token);
+const rest = new REST({ version: '10' }).setToken(token);
 
 const log = l => { console.log(`[${moment().format("DD-MM-YYYY HH:mm:ss")}] ${l}`) };
 
@@ -64,4 +64,7 @@ setTimeout(() => {
   }
 }, 9*1000);
 
-client.login(process.env.token)
+client.login(token)
+
+
+//N1CHO was here :D
