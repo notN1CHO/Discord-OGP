@@ -1,7 +1,15 @@
 {
+  "name": "AresHost-OGP",
+  "version": "1.0.0",
+  "description": "AresHost-OGP is a Discord bot project linked to Open Game Panel API.",
+  "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "keywords": ["Discord", "Bot", "OGP", "MTA", "Host", "API", "Hosting", "SAMP"],
+  "author": "N1CHO",
+  "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.0.0",
