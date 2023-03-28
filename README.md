@@ -56,7 +56,7 @@ Extract ZIP to your Desktop and go to the AresHost-OGP folder. In there, open a 
 
 </div>
 
-- Log into your ogp account
+- Log into your OGP account
 > (Link your discord account with your Open Game Panel account using username and password.)
 
 - Creating users 
