@@ -10,7 +10,7 @@ const { InteractionType } = require("discord.js");
          const command = client.commands.get(interaction.commandName)
          command.run(client, interaction)
 	} catch {
-	interaction.reply({content: "Komut çalıştırılırken bir sorunla karşılaşıldı! Lütfen tekrar deneyin.", ephemeral: true})
+	interaction.reply({content: "A problem was encountered while running the command! Please try again.", ephemeral: true})
 	}
 	 }
   }}
