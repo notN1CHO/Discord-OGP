@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/last-commit/notN1CHO/Discord-OGP?color=%23000000&logoColor=%23000000">
     <br>
     <img src="https://img.shields.io/github/issues/notN1CHO/Discord-OGP?color=%23000000&logoColor=%23000000">
-    
+    <img src="https://img.shields.io/github/issues-closed/notN1CHO/Discord-OGP?color=%23000000&logoColor=%23000000">
 
 
 
