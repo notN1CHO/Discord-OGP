@@ -79,4 +79,4 @@ After all of that go to Discord and start using the bot by Slash Commands
 
 - [Our Discord Server](https://discord.gg/9PYuyYwE7F)                                                                                                                                                                      
 ------------------------------------------------------------------------------------------------------------
-⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial ! ↑↑*
+⏳ * Thanks to everyone who took the time to read through this slightly longer tutorial ! ↑↑ *
