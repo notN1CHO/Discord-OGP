@@ -72,7 +72,7 @@ After all of that go to Discord and start using the bot by Slash Commands
 - Fast and easy to use.
 > (Free project and easy to use it and control your OGP from Discord)
 ------------------------------------------------------------------------------------------------------------
-### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our Discord server!**
+### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our Discord server !**
 
 - [Contact Me](https://discordlookup.com/user/704896961563590767)
 
