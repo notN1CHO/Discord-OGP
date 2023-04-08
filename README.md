@@ -75,8 +75,6 @@ After all of that go to Discord and start using the bot by Slash Commands
 ### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our Discord server !**
 
 - [Contact Me](https://discordlookup.com/user/704896961563590767)
-
-
-- [Our Discord Server](https://discord.gg/9PYuyYwE7F)                                                                                                                                                                      
+                                                                                                                                                               
 ------------------------------------------------------------------------------------------------------------
 ⏳ * Thanks to everyone who took the time to read through this slightly longer tutorial ! ↑↑ *
