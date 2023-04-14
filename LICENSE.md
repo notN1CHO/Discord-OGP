@@ -1,4 +1,4 @@
-# License for AresHost
+# License for Discord-OGP
 
 - The credits should not be changed (By N1CHO).
 - The bot-code should be used for **private hosting** and **personal usage** only.
