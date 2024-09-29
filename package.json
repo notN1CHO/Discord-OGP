@@ -1,27 +1,54 @@
 {
-  "name": "AresHost-OGP",
-  "version": "1.0.0",
-  "description": "AresHost-OGP is a Discord bot project linked to Open Game Panel API.",
+  "name": "discord-ogp",
+  "version": "4.0.5",
+  "description": "Discord-OGP is a Discord bot project linked to Open Game Panel API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": ["Discord", "Bot", "OGP", "MTA", "Host", "API", "Hosting", "SAMP"],
+  "keywords": [
+    "Discord",
+    "Bot",
+    "OGP",
+    "MTA",
+    "Host",
+    "API",
+    "Hosting",
+    "SAMP",
+    "Minecraft",
+    "ViceCity",
+    "MTA:SA"
+  ],
   "author": "N1CHO",
-  "license": "MIT",
+  "license": "CC-BY-NC-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notN1CHO/Discord-OGP"
+  },
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.0.0",
     "axios": "^1.2.5",
     "cheerio": "^1.0.0-rc.12",
+    "date-str-timestamp": "^1.0.1",
     "discord-api-types": "^0.37.30",
-    "discord.js": "^14.7.1",
+    "discord-ogp": "file:",
+    "discord.js": "^14.8.0",
     "express": "^4.18.1",
-    "fs": "^0.0.2",
+    "fs": "0.0.2",
     "lodash.uniqwith": "^4.5.0",
     "moment": "^2.29.4",
     "mysql": "^2.18.1",
+    "net": "^1.0.2",
+    "node": "^16.10.0",
+    "node-os-utils": "^1.3.6",
+    "node-url-shortener": "^2.0.3",
+    "path": "^0.12.7",
+    "querystring": "^0.2.1",
+    "quick.db": "^9.1.7",
+    "ssh2": "^1.14.0",
+    "timestamp-to-date": "^1.1.0",
     "x73db": "^1.1.0"
   }
 }
