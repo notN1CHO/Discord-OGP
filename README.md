@@ -47,8 +47,8 @@ After all of that go to Discord and start using the bot by Slash Commands
 
 </div>
 
-![Discord-OGP-n1cho](https://media.discordapp.net/attachments/867378834559336458/1090348043527802910/image.png)
-![Discordbot-OGP-n1cho](https://media.discordapp.net/attachments/867378834559336458/1090348491529781288/image.png)
+![Discord-OGP-n1cho](https://cdn.discordapp.com/attachments/705601659769978901/1290082180201975940/image.png?ex=66fb2a28&is=66f9d8a8&hm=3fb1f5c698a2206e75c51aafa59766f8279a8ce259cc2ec5cd40685ef4b8223d&)
+![Discordbot-OGP-n1cho](https://cdn.discordapp.com/attachments/705601659769978901/1290082440743878656/image.png?ex=66fb2a66&is=66f9d8e6&hm=070412c6b83a3af28975f3ace576241847dd7996f0bdf5ae8bbd08bea746a505&)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 <div align="center">
