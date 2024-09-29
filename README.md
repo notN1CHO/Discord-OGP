@@ -13,8 +13,11 @@
 
 
 ### Discord-OGP is a Discord bot project linked to your Open Game Panel API, you can control your OGP easily and for free. 
+&copy; 2023-<span id="current-year"></span> Discord-OGP. All rights reserved to N1CHO.
 
- ❤️ Credits to N1CHO ❤️
+<script>
+    document.getElementById("current-year").innerText = new Date().getFullYear();
+</script>
 
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
