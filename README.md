@@ -58,19 +58,20 @@ After all of that go to Discord and start using the bot by Slash Commands
 </div>
 
 - Log into your OGP account
-> (Link your discord account with your Open Game Panel account using username and password.)
+> Link your discord account with your Open Game Panel account using username and password.
 
 - Creating users 
-> (This feature, creates new users in OGP from Discord.)
+> This feature, creates new users in OGP from Discord.
 
 - Creating game servers
-> (You can create a samp or mta sa server in OGP from Discord.)
+> You can create a samp or mta sa server in OGP from Discord.
+> Supporting only MTA:SA, SA:MP, Minecraft, VC:MP, Team Speak 3 on the last OGP version (For Minecraft, VC:MP and TeamSpeak3 you may need to add more functions to make it works).
 
 - Cloning servers 
-> (If you don't like a feature, you can easily delete the file.)
+> If you don't like a feature, you can easily delete the file.
 
 - Fast and easy to use.
-> (Free project and easy to use it and control your OGP from Discord)
+> Free project and easy to use it and control your OGP from Discord.
 ------------------------------------------------------------------------------------------------------------
 ### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our Discord server !**
 
