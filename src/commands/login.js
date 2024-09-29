@@ -8,9 +8,24 @@ const cheerio = require('cheerio');
 const https = require('https');
 const token = new x73db("token")
 let fs = require('fs');
-
+const QuickDatabase = new x73db("database")
 const httpsAgent = new https.Agent({ keepAlive: true });
-
+const mysql = require('mysql');
+const connection = mysql.createConnection({
+    host: config.mysqlhost,
+    user: config.mysqluser,
+    password: config.mysqlpw,
+    database: config.mysqldb
+   // port: //1598
+  });
+  connection.connect((err) => {
+    if (err) {
+      console.error('login command Error connecting to MySQL:', err);
+      return;
+    }
+    console.log('login command Connected to MySQL server');
+  })
+  
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("login")
@@ -26,27 +41,31 @@ module.exports = {
     run: async (client, interaction) => {
 
 
-let user = 'username'
 let value1 = await interaction.options.getString("username")
-let password = 'password'
 let value2 = await interaction.options.getString("password")
 const api = axios.create({baseURL: ip})
-  
-api.post('/ogp_api.php?token/create', {
+await api
+await api.post('/ogp_api.php?token/create', {
     user: value1,
     password: value2
 })
 .then(async res  => {
-  
-  if(res.data.message == "Invalid login information") return await interaction.reply({ content: `:x: - **${res.data.message}**`, ephemeral: true }).then((e) => {
-  console.log(`${res.data.message}`)
-     
+    console.log(`${res.data.message}`)
+  if(res.data.message == "Invalid login information") return await interaction.reply({ content: `:x: - **${res.data.message}**`, ephemeral: true }).then((e) => {     
    });
-   await interaction.reply({ content: `✅ - **Successfully logged in**\nToken: ||${res.data.message}||`, ephemeral: true }).then((e) => {
+   if(res.data.status == "200") return await interaction.reply({ content: `✅ - **Successfully logged in**\nToken: ||${res.data.message}||`, ephemeral: true }).then((e) => {
   console.log(`Token successfully saved\n${res.data.message}`)
   token.set(`token${interaction.member.user.id}`, res.data.message)    
+  connection.query(`SELECT * FROM ogp_users WHERE users_login='${value1}'`, async function(error, results) {
+    await console.log(`${value2} AGP Account is now connected with this discord account (ID: ${interaction.user.id}).`);
+    await QuickDatabase.set(interaction.user.id, results[0]);
+});
    });
+   await interaction.reply({ content: `${res.data.message}`, ephemeral: true }).then((e) => {
+    console.log(`${res.data.message}`)
 
+     });
+  
   
 })
 .catch(async error => {

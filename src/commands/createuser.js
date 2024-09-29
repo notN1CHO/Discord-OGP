@@ -44,6 +44,9 @@ api.post(`/ogp_api.php?user_admin/create`, {
 })
 .then(async (res)  => {
 console.log(res.data)
+if(res.data.message == "Invalid Token") return await interaction.reply({ content: `:x: - **${res.data.message}, Please login!**`, ephemeral: true }).then((e) => {
+  console.log(`${res.data.message}`)  
+   });
   if(res.data.message == "This function is restricted to administrator accounts.") return await interaction.reply({ content: `:x: - **${res.data.message}**`, ephemeral: true }).then((e) => {
   console.log(`${res.data.message}`)  
    });
@@ -54,6 +57,9 @@ console.log(res.data)
  if(res.data.includes("Duplicate entry")) return await interaction.reply({ content: `:x: - **Failed to create account, name or email already in use.**`, ephemeral: true }).then((e) => {
   console.log(`Failed to create account, name or email already in use.`) 
    });  
+   if(res.data.includes("Failed to create account, name or email already in use.")) return await interaction.reply({ content: `:x: - **Failed to create account, name or email already in use.**`, ephemeral: true }).then((e) => {
+    console.log(`Failed to create account, name or email already in use.`) 
+     });  
 await interaction.reply({ content: `:x: - **${res.data}**`, ephemeral: true }).then((e) => {
   console.log(`${res.data}`) 
    });  

@@ -31,7 +31,7 @@ client.on("ready", async () => {
         } catch (error) {
             console.error(error);
         }
-    log(`${client.user.username} is Online!`);
+    log(`${client.user.username} is Online!\nMade By N1CHO\nGithub: https://github.com/notN1CHO/Discord-OGP/`);
 })
 
 //event-handler

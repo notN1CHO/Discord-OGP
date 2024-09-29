@@ -10,7 +10,7 @@ const { InteractionType } = require("discord.js");
          const command = client.commands.get(interaction.commandName)
          command.run(client, interaction)
 	} catch {
-	interaction.reply({content: "A problem was encountered while running the command! Please try again.", ephemeral: true})
+	interaction.reply({content: "A problem was encountered while running the command! Please try again.\nIf it still not working, contact me on Discord: n1cho. or on [Github](https://github.com/notN1CHO/Discord-OGP/) ", ephemeral: true})
 	}
 	 }
   }}
