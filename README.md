@@ -65,7 +65,7 @@ After all of that go to Discord and start using the bot by Slash Commands
 
 - Creating game servers
 > You can create a samp or mta sa server in OGP from Discord.
-> Supporting only MTA:SA, SA:MP, Minecraft, VC:MP, Team Speak 3 on the last OGP version (For Minecraft, VC:MP and TeamSpeak3 you may need to add more functions to make it works).
+> \nSupporting only MTA:SA, SA:MP, Minecraft, VC:MP, Team Speak 3 on the last OGP version (For Minecraft, VC:MP and TeamSpeak3 you may need to add more functions to make it works).
 
 - Cloning servers 
 > If you don't like a feature, you can easily delete the file.
