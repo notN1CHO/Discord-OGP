@@ -7,6 +7,7 @@ const x73db = require("x73db")
 const axios = require('axios'); 
 const cheerio = require('cheerio');
 const https = require('https');
+const crypto = require('crypto');
 const dbtoken = new x73db("token")
 const dbserverid = new x73db("serverid")
 let fs = require('fs');
@@ -228,8 +229,8 @@ let home_cfg_id = "146"
 let mod_cfg_id = "182"           
 const api = await axios.create({baseURL: ip})
 //let port = Math.floor(Math.random() * 27500) + 27415;
-let cpw = Math.floor(Math.random() * 30000) + 10000;
-let cpid = Math.floor(Math.random() * 30000) + 200;
+let cpw = crypto.randomBytes(2).readUInt16BE(0) % 30000 + 10000;
+let cpid = crypto.randomBytes(2).readUInt16BE(0) % 30000 + 200;
 let eftp = "1"   
 let affinity = "0"
 let nice = "0"  
@@ -243,8 +244,8 @@ creatingServer(server_name, slots, remote_server_id, home_cfg_id, mod_cfg_id, ap
   let mod_cfg_id = "221"           
   const api = await axios.create({baseURL: ip})
   //let port = Math.floor(Math.random() * 27500) + 27415;
-  let cpw = Math.floor(Math.random() * 30000) + 10000;
-  let cpid = Math.floor(Math.random() * 30000) + 200;
+  let cpw = crypto.randomBytes(2).readUInt16BE(0) % 30000 + 10000;
+  let cpid = crypto.randomBytes(2).readUInt16BE(0) % 30000 + 200;
   let eftp = "1"   
   let affinity = "0"
   let nice = "0"  
@@ -356,7 +357,7 @@ creatingServer(server_name, slots, remote_server_id, home_cfg_id, mod_cfg_id, ap
         }
       });*/
 
-      let newPort = Math.floor(Math.random() * 27500) + 27415;
+      let newPort = crypto.randomBytes(2).readUInt16BE(0) % 27500 + 27415;
   
     
   
