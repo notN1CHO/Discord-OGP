@@ -13,17 +13,19 @@
 
 
 ### Discord-OGP is a Discord bot project linked to your Open Game Panel API, you can control your OGP easily and for free. 
+### &copy; 2023 - 2024<span id="current-year"></span> Discord-OGP. All rights reserved to N1CHO.
 
- ❤️ Credits to N1CHO ❤️
+
 
 </div>
+
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-![Discord-OGP](https://camo.githubusercontent.com/9a9d7907a4e7fb7a7c453c0ea9109262d6714af739e861c34c84a4d9d6dc7cb6/68747470733a2f2f692e696d6775722e636f6d2f79525a723952662e706e67)
+![Discord-OGP](https://media.discordapp.net/attachments/705601659769978901/1290080879913341031/68747470733a2f2f692e696d6775722e636f6d2f79525a723952662e706e67.png?ex=66fb28f2&is=66f9d772&hm=31c007ef313423f6ab8a572f5ae57e10b162d97b91f16c5166066191dc0c5bac&=&format=webp&quality=lossless&width=1000&height=300)
 ---------------------------------------------------------------------------------------------------
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-Hello! I'm pretty new on Github! Some days ago I found my old project Discord-OGP directory and i repost it with some changes.
+Hello everyone! This is the new powerful version of Discord-OGP bot, if you had any problem on following the instructions below feel free to contact me or just open a new issue thats will be really good.
 
 ### You would make me really happy if you star ⭐ this repository if you like it !
 ---------------------------------------------------------------------------------------------------
@@ -47,8 +49,8 @@ After all of that go to Discord and start using the bot by Slash Commands
 
 </div>
 
-![Discord-OGP-n1cho](https://media.discordapp.net/attachments/867378834559336458/1090348043527802910/image.png)
-![Discordbot-OGP-n1cho](https://media.discordapp.net/attachments/867378834559336458/1090348491529781288/image.png)
+![Discord-OGP-n1cho](https://cdn.discordapp.com/attachments/705601659769978901/1290082180201975940/image.png?ex=66fb2a28&is=66f9d8a8&hm=3fb1f5c698a2206e75c51aafa59766f8279a8ce259cc2ec5cd40685ef4b8223d&)
+![Discordbot-OGP-n1cho](https://cdn.discordapp.com/attachments/705601659769978901/1290082440743878656/image.png?ex=66fb2a66&is=66f9d8e6&hm=070412c6b83a3af28975f3ace576241847dd7996f0bdf5ae8bbd08bea746a505&)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 <div align="center">
@@ -58,19 +60,20 @@ After all of that go to Discord and start using the bot by Slash Commands
 </div>
 
 - Log into your OGP account
-> (Link your discord account with your Open Game Panel account using username and password.)
+> Link your discord account with your Open Game Panel account using username and password.
 
 - Creating users 
-> (This feature, creates new users in OGP from Discord.)
+> Add new users in OGP from Discord.
 
 - Creating game servers
-> (You can create a samp or mta sa server in OGP from Discord.)
+> You can create a game server in OGP using bot's slash command from Discord.
+Supporting only MTA:SA, SA:MP, Minecraft, VC:MP, Team Speak 3 on the last OGP version (For Minecraft, VC:MP and TeamSpeak3 you may need to add more functions to make it works).
 
 - Cloning servers 
-> (If you don't like a feature, you can easily delete the file.)
+> Cloning existing servers, If you didn't like this feature, you can easily delete the file.
 
 - Fast and easy to use.
-> (Free project and easy to use it and control your OGP from Discord)
+> Free project and easy to use it and controlling your OGP from Discord.
 ------------------------------------------------------------------------------------------------------------
 ### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our Discord server !**
 
