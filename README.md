@@ -23,7 +23,7 @@
 ---------------------------------------------------------------------------------------------------
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-Hello! I'm pretty new on Github! Some days ago I found my old project Discord-OGP directory and i repost it with some changes.
+Hello everyone! This is the new powerful version of Discord-OGP bot, if you had any problem on following the instructions below feel free to contact me or just open a new issue thats will be really good.
 
 ### You would make me really happy if you star ⭐ this repository if you like it !
 ---------------------------------------------------------------------------------------------------
@@ -61,17 +61,17 @@ After all of that go to Discord and start using the bot by Slash Commands
 > Link your discord account with your Open Game Panel account using username and password.
 
 - Creating users 
-> This feature, creates new users in OGP from Discord.
+> Add new users in OGP from Discord.
 
 - Creating game servers
-> You can create a samp or mta sa server in OGP from Discord.
+> You can create a game server in OGP using bot's slash command from Discord.
 Supporting only MTA:SA, SA:MP, Minecraft, VC:MP, Team Speak 3 on the last OGP version (For Minecraft, VC:MP and TeamSpeak3 you may need to add more functions to make it works).
 
 - Cloning servers 
-> If you don't like a feature, you can easily delete the file.
+> Cloning existing servers, If you didn't like this feature, you can easily delete the file.
 
 - Fast and easy to use.
-> Free project and easy to use it and control your OGP from Discord.
+> Free project and easy to use it and controlling your OGP from Discord.
 ------------------------------------------------------------------------------------------------------------
 ### 📝 **If you have any other improvement ideas or questions, just ask me on Discord or join our Discord server !**
 
